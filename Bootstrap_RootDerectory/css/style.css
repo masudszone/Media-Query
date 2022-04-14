@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.base{
+	height:100px;
+}
+
+
+.logo{
+	border: 1px solid black;
+}
+.menue{
+	border: 1px solid black;
+}
+.slider{
+	height:500px;
+	border: 1px solid black;
+}
+.srv1{
+	height:250px;
+	border: 1px solid black;
+}
+.srv2{
+	height:250px;
+	border: 1px solid black;
+}
+.srv3{
+	height:250px;
+	border: 1px solid black;
+
+}
